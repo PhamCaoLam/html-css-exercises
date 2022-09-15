@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    background-color:darkgray;
+    padding: 12px;
+    color: black;
+}
+
+div {
+    width: 300px;   
+}
+
+img {
+    width: 240px;
+    height: 200px;
+}
